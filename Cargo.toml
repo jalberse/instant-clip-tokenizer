@@ -1,5 +1,5 @@
 [workspace]
-members = ["instant-clip-tokenizer", "instant-clip-tokenizer-py"]
+members = ["instant-clip-tokenizer"]
 resolver = "2"
 
 [workspace.package]
